@@ -13,7 +13,7 @@ Year 2, Semester 1 of my 3-year degree program.
 
 ## 🛠️ Tech Stack
 - 💻 HTML | CSS | JavaScript
-- 🌐 React | WordPress
+- 🌐 Elementor | WordPress
 - 📱 Flutter (learning)
 - ⚙️ Firebase (learning)
 - 🧪 Git & GitHub

@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nipun Fernando
 
-🎓 I'm an undergraduate at **APIIT Sri Lanka**, currently pursuing a **BSc (Hons) in Software Engineering**.
+🎓 I'm an undergraduate at **APIIT Sri Lanka**, currently pursuing a **BEng (Hons) in Software Engineering**.
 
 🚀 I co-founded [**Hustlers Media**](https://hustlersmedia.com/), a freelance **web design agency** established in 2022 — and we've been helping brands build clean, modern digital experiences ever since.
 
